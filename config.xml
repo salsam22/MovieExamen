@@ -1,0 +1,5 @@
+
+<config>
+    <dsn>mysql:host=localhost;dbname=movieFX;charset=utf8;user=root;password=;</dsn>
+    <posterpath>posters/</posterpath>
+</config>
